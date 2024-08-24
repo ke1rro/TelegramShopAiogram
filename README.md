@@ -33,7 +33,7 @@ The primary purpose of this bot is for commercial use. It is currently operation
 ```
 
 ## Usage preview📲
-<video controls src="https://github.com/ke1rro/TelegramShopAiogram/blob/main/github_imgs/usage.gif" title="Title"></video>
+![alt text](github_imgs/usage.gif)
 ---
 
 # Quickstart▶️
