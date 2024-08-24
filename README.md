@@ -23,6 +23,11 @@ The primary purpose of this bot is for commercial use. It is currently operation
 - **[Google Cloud Storage](https://cloud.google.com/storage)**<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud Storage" width="120"/>
 
 ---
+- **[Docker](https://www.docker.com/)** <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="75"/>
+
+---
+
+>
 >[!WARNING]
 >My code may be shity and work unstable sometimes, it is my first big project
 
