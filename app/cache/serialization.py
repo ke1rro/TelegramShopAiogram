@@ -1,4 +1,4 @@
-# ruff: noqa: S301
+
 import pickle
 from abc import ABC, abstractmethod
 from typing import Any
